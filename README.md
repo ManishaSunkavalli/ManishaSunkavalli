@@ -20,7 +20,7 @@ Experienced in ensuring product quality through strong test strategy, defect ana
 - JavaScript (Basic)
 - API Testing (Postman)
 - SQL
-- - Jira
+- Jira
 - Git & GitHub
 
 ## 📌 What You’ll Find Here
